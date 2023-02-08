@@ -3,7 +3,7 @@
 
 https://cyf-ali-nasir-html-css-week-3.netlify.app/
 
-https://github.com/ali-nasir-ali/HTML-CSS-Coursework-Week3/blob/e4004b4d8f46a13d18995b4695d65a915aa28999/images-for-readme/Screenshot%20(15).png?raw=true
+![alt text](https://github.com/ali-nasir-ali/HTML-CSS-Coursework-Week3/blob/e4004b4d8f46a13d18995b4695d65a915aa28999/images-for-readme/Screenshot%20(15).png?raw=true)
 
 
 # Cakes Co
